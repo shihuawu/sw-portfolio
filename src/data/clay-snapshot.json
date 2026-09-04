@@ -1,0 +1,87 @@
+{
+  "generatedAt": "2026-09-04T05:03:08.731Z",
+  "source": {
+    "tableId": "t_0tkcwr9xPETdEqgSUfe",
+    "tableName": "Dust.tt ICP",
+    "totalAccounts": 897
+  },
+  "classifiedAccounts": 708,
+  "heldOutBeforeResearch": 186,
+  "missingResearchInputs": 3,
+  "topTierAccounts": 86,
+  "segments": [
+    {
+      "label": "Build-Risk",
+      "count": 388
+    },
+    {
+      "label": "Greenfield",
+      "count": 278
+    },
+    {
+      "label": "Displacement",
+      "count": 42
+    }
+  ],
+  "scoreDistribution": [
+    {
+      "score": 10,
+      "count": 2
+    },
+    {
+      "score": 9,
+      "count": 35
+    },
+    {
+      "score": 8,
+      "count": 49
+    },
+    {
+      "score": 7,
+      "count": 155
+    },
+    {
+      "score": 6,
+      "count": 163
+    },
+    {
+      "score": 5,
+      "count": 122
+    },
+    {
+      "score": 4,
+      "count": 101
+    },
+    {
+      "score": 3,
+      "count": 40
+    },
+    {
+      "score": 2,
+      "count": 32
+    },
+    {
+      "score": 1,
+      "count": 8
+    },
+    {
+      "score": 0,
+      "count": 1
+    }
+  ],
+  "initialCohorts": [
+    {
+      "label": "Displacement",
+      "count": 10
+    },
+    {
+      "label": "Greenfield",
+      "count": 10
+    },
+    {
+      "label": "Build-Risk",
+      "count": 10
+    }
+  ],
+  "initialCohortSize": 30
+}
